@@ -1,0 +1,41 @@
+
+body {
+    background-color: rgba(53, 211, 100, 0.707);
+}
+
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(216, 164, 164, 0.1);
+    padding: 20px;
+    margin-top: 10px;
+
+
+}
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+.table{
+    border-radius: 5px;
+    overflow: hidden;
+    border-bottom: 2px solid black;
+}
+
+td
+{
+    border-bottom: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.table th
+{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
