@@ -16,6 +16,10 @@ A simple and responsive web app that displays real-time COVID-19 data for all st
 
 
 
+
+https://github.com/user-attachments/assets/a0296e7e-12bb-4279-80ac-12f9921a020b
+
+
 🛠️ Technologies Used
 HTML5
 
